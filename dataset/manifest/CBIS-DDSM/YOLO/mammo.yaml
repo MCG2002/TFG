@@ -1,0 +1,4 @@
+train: C:\Users\mcamp\OneDrive\Documentos\TFG_P2\manifest-ZkhPvrLo5216730872708713142\CBIS-DDSM\YOLO\images\train
+val: C:\Users\mcamp\OneDrive\Documentos\TFG_P2\manifest-ZkhPvrLo5216730872708713142\CBIS-DDSM\YOLO\images\val
+nc: 1
+names: ["tumor"]

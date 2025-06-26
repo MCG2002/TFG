@@ -11,7 +11,7 @@ def yolo_adamw_flip():
 
     # Entrena durante 100 épocas con imágenes de tamaño 640x640 y un batch de 8
     model.train(
-        data=r"C:\Users\mcamp\OneDrive\Documentos\TFG_P2\manifest-ZkhPvrLo5216730872708713142\CBIS-DDSM\YOLO\mammo.yaml",    
+        data="../../dataset/manifest/CBIS-DDSM/YOLO/mammo.yaml",    
         epochs=100,
         imgsz=640,
         batch=8,

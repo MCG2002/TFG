@@ -6,7 +6,7 @@ def yolo_predict(image_path):
     según las predicciones obtenidas por YOLO.
     """
     # Carga el modelo entrenado
-    model = YOLO("runs/detect/mammo_yolo2/weights/best.pt")
+    model = YOLO("../mammo_yolo2/weights/best.pt")
 
     # Predecice la posición de los tumores con YOLO
     results = model.predict(source=image_path)

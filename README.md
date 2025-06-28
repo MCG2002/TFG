@@ -7,6 +7,7 @@ El presente protecto tiene como objetivo el desarrollo de un modelo de inteligen
 **Palabras clave:** cáncer de mama, redes neuronales convolucionales, mamografías, aprendizaje profundo, aumento de datos, abandono, normalización por lotes, regularización L1/L2, detención temprana, YOLO.
 
 ---
+# Breast tumor identification from image analysis using deep learning techniques
 
 ## English
 
